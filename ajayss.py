@@ -1,0 +1,2 @@
+print("Ajay is typing")
+
